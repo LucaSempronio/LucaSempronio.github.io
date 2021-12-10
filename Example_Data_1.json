@@ -27,7 +27,8 @@
    "HMM Cons in Locus Super-Type": "1.16%",
    "HMM Cons in Locus Type": "2.50%",
    "HMM Cons in Locus Sub-Type": "5.00%",
-   "HMMs in Gene": "PF02465 (FliD_N) - Flagellar hook-associated protein 2 N-terminus ; PF07195 (FliD_C) - Flagellar hook-associated protein 2 C-terminus"
+   "HMMs in Gene": "PF02465 (FliD_N) - Flagellar hook-associated protein 2 N-terminus ; PF07195 (FliD_C) - Flagellar hook-associated protein 2 C-terminus",
+   "PDBCode": "4p7t" 
  },
  {
    "All BMC Loci": "All non-satellite",
@@ -57,7 +58,8 @@
    "HMM Cons in Locus Super-Type": "1.16%",
    "HMM Cons in Locus Type": "2.50%",
    "HMM Cons in Locus Sub-Type": "5.00%",
-   "HMMs in Gene": "PF02561 (FliS) - Flagellar protein FliS"
+   "HMMs in Gene": "PF02561 (FliS) - Flagellar protein FliS",
+   "PDBCode": "7b3g" 
  },
  {
    "All BMC Loci": "All non-satellite",
@@ -87,7 +89,8 @@
    "HMM Cons in Locus Super-Type": "-",
    "HMM Cons in Locus Type": "-",
    "HMM Cons in Locus Sub-Type": "-",
-   "HMMs in Gene": ""
+   "HMMs in Gene": "",
+   "PDBCode": "7cy2" 
  },
  {
    "All BMC Loci": "All non-satellite",
@@ -117,7 +120,8 @@
    "HMM Cons in Locus Super-Type": "1.16%",
    "HMM Cons in Locus Type": "2.50%",
    "HMM Cons in Locus Sub-Type": "5.00%",
-   "HMMs in Gene": "PF12730 (ABC2_membrane_4) - ABC-2 family transporter protein"
+   "HMMs in Gene": "PF12730 (ABC2_membrane_4) - ABC-2 family transporter protein",
+   "PDBCode": "7POW" 
  },
  {
    "All BMC Loci": "All non-satellite",
@@ -147,7 +151,8 @@
    "HMM Cons in Locus Super-Type": "59.30%",
    "HMM Cons in Locus Type": "100.00%",
    "HMM Cons in Locus Sub-Type": "100.00%",
-   "HMMs in Gene": "PF02788 (RuBisCO_large_N) - Ribulose bisphosphate carboxylase large chain, N-terminal domain ; PF00016 (RuBisCO_large) - Ribulose bisphosphate carboxylase large chain, catalytic domain"
+   "HMMs in Gene": "PF02788 (RuBisCO_large_N) - Ribulose bisphosphate carboxylase large chain, N-terminal domain ; PF00016 (RuBisCO_large) - Ribulose bisphosphate carboxylase large chain, catalytic domain",
+   "PDBCode": "7boe" 
  },
  {
    "All BMC Loci": "All non-satellite",
@@ -178,6 +183,7 @@
    "HMM Cons in Locus Type": "97.50%",
    "HMM Cons in Locus Sub-Type": "95.00%",
    "HMMs in Gene": "PF00101 (RuBisCO_small) - Ribulose bisphosphate carboxylase, small chain"
+   "PDBCode": "7pzm" 
  },
  {
    "All BMC Loci": "All non-satellite",
@@ -208,5 +214,6 @@
    "HMM Cons in Locus Type": "100.00%",
    "HMM Cons in Locus Sub-Type": "100.00%",
    "HMMs in Gene": "PF12288 (CsoS2_M) - Carboxysome shell peptide mid-region"
+   "PDBCode": "7bny" 
  }
 ]
