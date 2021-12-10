@@ -182,7 +182,7 @@
    "HMM Cons in Locus Super-Type": "98.84%",
    "HMM Cons in Locus Type": "97.50%",
    "HMM Cons in Locus Sub-Type": "95.00%",
-   "HMMs in Gene": "PF00101 (RuBisCO_small) - Ribulose bisphosphate carboxylase, small chain"
+   "HMMs in Gene": "PF00101 (RuBisCO_small) - Ribulose bisphosphate carboxylase, small chain",
    "PDBCode": "7pzm" 
  },
  {
@@ -213,7 +213,7 @@
    "HMM Cons in Locus Super-Type": "46.51%",
    "HMM Cons in Locus Type": "100.00%",
    "HMM Cons in Locus Sub-Type": "100.00%",
-   "HMMs in Gene": "PF12288 (CsoS2_M) - Carboxysome shell peptide mid-region"
+   "HMMs in Gene": "PF12288 (CsoS2_M) - Carboxysome shell peptide mid-region",
    "PDBCode": "7bny" 
  }
 ]
